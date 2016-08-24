@@ -35,8 +35,7 @@
     "karma-ember-precompiler-brunch": "~0.0.1"
   },
   "scripts": {
-    "start": "brunch watch --server",
-    "test": "mocha-phantomjs -R min public/test/test.html"
+    "start": "brunch watch --server"
   },
   "engines": {
     "node": "~0.6.10 || 0.8 || 0.9 || 0.10"
